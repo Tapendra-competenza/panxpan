@@ -15,7 +15,7 @@
   "dependencies": {
     "@deveodk/vue-toastr": "^1.0.4",
     "@nuxtjs/bootstrap-vue": "^2.0.2",
-    "axios": "^0.16.2",
+    "axios": "^0.19.2",
     "bootstrap-vue": "^2.0.0-rc.1",
     "cxlt-vue2-toastr": "^1.1.0",
     "jquery": "^3.3.1",
