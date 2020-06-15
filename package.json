@@ -1,0 +1,46 @@
+{
+  "name": "pxp-marketing",
+  "version": "1.0.0",
+  "description": "Pxp marketing website",
+  "author": "Arsen <arsenyeghiazarian@gmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "@deveodk/vue-toastr": "^1.0.4",
+    "@nuxtjs/bootstrap-vue": "^2.0.2",
+    "axios": "^0.16.2",
+    "bootstrap-vue": "^2.0.0-rc.1",
+    "cxlt-vue2-toastr": "^1.1.0",
+    "jquery": "^3.3.1",
+    "moment": "^2.18.1",
+    "nuxt": "^1.0.0-rc11",
+    "v-infinite-scroll": "^1.0.4",
+    "vue-carousel": "^0.6.5",
+    "vue-flex": "^2.1.0",
+    "vue-infinite-scroll": "^2.0.2",
+    "vue-multiselect": "^2.0.2",
+    "vue-select": "^2.2.0",
+    "vue-toastr-2": "0.0.10",
+    "vue-truncate-filter": "^1.1.7"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.3.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-loader": "^1.9.0",
+    "eslint-plugin-html": "^3.1.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "vue-star-rating": "^1.6.0",
+    "webpack-node-externals": "^1.6.0"
+  }
+}
